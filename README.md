@@ -1,5 +1,28 @@
 # 0 + 1 = ∞ — Symbolic Philosophy of Eternal Continuity  
 
+---
+
+## 🌐 Public Originality Proof  
+
+**Module Name:** 0 + 1 = ∞ (Symbolic Philosophy of Eternity)  
+**Author:** Founder of the LORI Framework  
+**Date:** 2025-09-18  
+**Status:** Public Originality Proof (非專利，著作權/技術藍圖公開封存)  
+**Rights:** © 2025 – LORI Framework. All Rights Reserved.  
+
+---
+
+### 📌 Declaration  
+This repository serves as a **Public Originality Proof**, establishing authorship and originality of the symbolic interpretation:  
+
+- **0** = Void / Nothingness  
+- **1** = Existence / Unity  
+- **0 + 1 = ∞** = Eternal continuity and immortality  
+
+It is publicly timestamped and preserved, ensuring recognition of intellectual authorship while **restricting unauthorized commercial use**.  
+
+# 0 + 1 = ∞ — Symbolic Philosophy of Eternal Continuity  
+
 © 2025 – LORI Framework. All Rights Reserved.  
 
 ---
