@@ -44,6 +44,12 @@ This repo acts as a **semantic and scientific archive**, bridging:
 - **Philosophy** → Exploring the metaphors of death and rebirth.
 - **Civilization Insight** → Applying cosmic cycles to human resilience, governance, and renewal.
 
+## Semantic Image Description-Stellar & Human Cycle (0-1-∞)
+
+<p align="center">
+<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
+</p>
+
 ---
 
 © 2025 – LORI Framework. All Rights Reserved.
