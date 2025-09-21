@@ -46,8 +46,9 @@ This repo acts as a **semantic and scientific archive**, bridging:
 
 ## Semantic Image Description-Stellar & Human Cycle (0-1-∞)
 
+
 <p align="center">
-<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
+<img src="./assets/images/Stellar&Human_Cycle.png" alt="Lori Framework Logo" width="500">
 </p>
 
 ---
