@@ -48,7 +48,7 @@ This repo acts as a **semantic and scientific archive**, bridging:
 
 
 <p align="center">
-<img src="assets/images/Stellar&Human_Cycle.png" alt="Stellar&Human" width="500">
+<img src="Docs/assets/images/Stellar&Human_Cycle.png" alt="Stellar&Human" width="500">
 </p>
 
 ---
