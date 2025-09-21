@@ -1,22 +1,22 @@
 # Lori-0Plust1-infinity
 
 > **0 + 1 = ∞**
-> 星辰的消減與重生，象徵宇宙不斷循環的秩序。
+> The cycle of stars and humans, where death and rebirth form an endless continuum.
 
 ---
 
 ## 🌌 Overview
 
-This repository explores the cycle of **stellar death and rebirth**, interpreted through both **astrophysics** and **philosophy**.
-It connects scientific models of stellar evolution with symbolic thinking:
+This repository explores the cycle of **stellar death and rebirth** and mirrors it with the **human life cycle**.
+By connecting astrophysics with philosophy, it demonstrates that both stars and humans follow a rhythm of:
 
-- **0 → Dissolution**: The end of a star’s life, returning to cosmic dust.
-- **1 → Rebirth**: The formation of a new star, born from the remnants of the old.
-- **∞ → Infinity**: The endless cycle of creation and destruction in the universe.
+- **0 → Dissolution**: Returning to dust or ashes.
+- **1 → Rebirth**: Emergence of a new star or continuation of the soul.
+- **∞ → Infinity**: The eternal cycle of cosmos and human existence.
 
 ---
 
-## 🔭 Stellar Evolution Cycle
+## 🔭 Stellar Evolution Cycle (Macrocosmos)
 
 1. **Nebula Formation** – Gas and dust collapse into a protostar.
 2. **Main Sequence** – Hydrogen fusion powers a stable star.
@@ -28,21 +28,34 @@ It connects scientific models of stellar evolution with symbolic thinking:
 
 ---
 
+## 🧬 Human Life Cycle (Microcosmos)
+
+1. **0 – Birth** – A soul enters the body (👶 infant).
+2. **Growth** – Life burns in learning, creation, and experience (🧑 adult).
+3. **Aging and Death** – The body returns to dust (👴 elder → ⚰️).
+4. **1 – Soul Continuation** – The soul transcends, eternal beyond matter (🕊️).
+
+---
+
 ## 🌀 Philosophical Interpretation
 
-- **0 (消減)** – All systems collapse, entropy dominates.
-- **1 (重生)** – New order arises from previous destruction.
-- **∞ (循環)** – The cycle is endless, mirroring both the cosmos and human civilization.
+- **0 (Dissolution)** – Stars explode; humans die.
+- **1 (Rebirth)** – New stars ignite; souls continue.
+- **∞ (Infinity)** – Both cycles interconnect, reflecting the cosmic principle that **nothing truly ends, it only transforms**.
 
 ---
 
 ## 🎯 Purpose
 
-This repo acts as a **semantic and scientific archive**, bridging:
+This repo acts as a **semantic and scientific-philosophical archive**, bridging:
 
 - **Astrophysics** → Understanding stellar life cycles.
-- **Philosophy** → Exploring the metaphors of death and rebirth.
+- **Human Philosophy** → Exploring birth, death, and immortality of the soul.
 - **Civilization Insight** → Applying cosmic cycles to human resilience, governance, and renewal.
+
+---
+
+
 
 ## Semantic Image Description-Stellar & Human Cycle (0-1-∞)
 
