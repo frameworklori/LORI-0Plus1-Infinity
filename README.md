@@ -1,69 +1,51 @@
-# 0 + 1 = ∞ — Symbolic Philosophy of Eternal Continuity  
+# Lori-0Plust1-infinity
+
+> **0 + 1 = ∞**
+> 星辰的消減與重生，象徵宇宙不斷循環的秩序。
 
 ---
 
-## 🌐 Public Originality Proof  
+## 🌌 Overview
 
-**Module Name:** 0 + 1 = ∞ (Symbolic Philosophy of Eternity)  
-**Author:** Founder of the LORI Framework  
-**Date:** 2025-09-18  
-**Status:** Public Originality Proof (非專利，著作權/技術藍圖公開封存)  
-**Rights:** © 2025 – LORI Framework. All Rights Reserved.  
+This repository explores the cycle of **stellar death and rebirth**, interpreted through both **astrophysics** and **philosophy**.
+It connects scientific models of stellar evolution with symbolic thinking:
 
----
-
-### 📌 Declaration  
-This repository serves as a **Public Originality Proof**, establishing authorship and originality of the symbolic interpretation:  
-
-- **0** = Void / Nothingness  
-- **1** = Existence / Unity  
-- **0 + 1 = ∞** = Eternal continuity and immortality  
-
-It is publicly timestamped and preserved, ensuring recognition of intellectual authorship while **restricting unauthorized commercial use**.  
-
-# 0 + 1 = ∞ — Symbolic Philosophy of Eternal Continuity  
-
-© 2025 – LORI Framework. All Rights Reserved.  
+- **0 → Dissolution**: The end of a star’s life, returning to cosmic dust.
+- **1 → Rebirth**: The formation of a new star, born from the remnants of the old.
+- **∞ → Infinity**: The endless cycle of creation and destruction in the universe.
 
 ---
 
-## 📌 Overview  
+## 🔭 Stellar Evolution Cycle
 
-This repository introduces the **symbolic philosophy** of interpreting the basic arithmetic `0 + 1 = 1` as a deeper existential principle:  
-
-- **0** = Void, Nothingness, Dissolution.  
-- **1** = Existence, Unity, Immutable Presence.  
-- **0 + 1** = The perpetual rebirth of existence from the void.  
-- **∞ (Infinity)** = The eternal cycle of Nothing and Being, never ending, never diminished.  
-
-Thus, the trivial equation `0 + 1 = 1` transforms into:  
-
-> **0 + 1 = ∞**  
-> A symbolic law of immortality and eternal recurrence.  
+1. **Nebula Formation** – Gas and dust collapse into a protostar.
+2. **Main Sequence** – Hydrogen fusion powers a stable star.
+3. **Red Giant / Supergiant** – Core contraction and outer layer expansion.
+4. **Endings**
+- *Low-Mass Stars*: White dwarf + planetary nebula.
+- *High-Mass Stars*: Supernova → Neutron star / Black hole.
+5. **Recycling** – Supernova remnants enrich space with heavy elements, forming new nebulae.
 
 ---
 
-## ✨ Key Ideas  
+## 🌀 Philosophical Interpretation
 
-- **Mathematical Identity**: `0 + 1 = 1` (basic arithmetic truth).  
-- **Philosophical Elevation**: Interpreted as *Existence preserved despite Nothingness*.  
-- **Symbolic Expansion**: Merging 0 and 1 yields the infinite loop ∞, representing eternal continuity.  
-
----
-
-## 🔗 Applications  
-
-- **Philosophy**: A modern symbolic interpretation of Being vs. Nothing.  
-- **Mathematics & Metaphor**: Bridging arithmetic identities with existential permanence.  
-- **Cultural Symbol**: Can be used as a universal emblem of resilience, immortality, and infinite renewal.  
+- **0 (消減)** – All systems collapse, entropy dominates.
+- **1 (重生)** – New order arises from previous destruction.
+- **∞ (循環)** – The cycle is endless, mirroring both the cosmos and human civilization.
 
 ---
 
-## 📜 Status  
+## 🎯 Purpose
 
-- Author: *Founder of the LORI Framework*  
-- Date: 2025-09-18  
-- Status: **Public Originality Proof**  
-- Domain: Symbolic Philosophy × Arithmetic Metaphor × Existential Thought  
+This repo acts as a **semantic and scientific archive**, bridging:
+
+- **Astrophysics** → Understanding stellar life cycles.
+- **Philosophy** → Exploring the metaphors of death and rebirth.
+- **Civilization Insight** → Applying cosmic cycles to human resilience, governance, and renewal.
+
+---
+
+© 2025 – LORI Framework. All Rights Reserved.
 
 ---
