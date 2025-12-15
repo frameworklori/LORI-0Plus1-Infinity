@@ -40,7 +40,9 @@ This manifesto declares a shift:
 
 3. **Mathematics as Metaphor**  
    - Beyond logical computation, equations are **civilizational mirrors**.  
-   - Each formula may reveal a **principle of permanence, transformation, or renewal**.  
+   - Each formula may reveal a **principle of permanence, transformation, or renewal**.
+
+# The universe does not return to zero. Zero represnets a reset state- a point of renewal-rather than a state of emptiness.
 
 ---
 
