@@ -42,7 +42,7 @@ This manifesto declares a shift:
    - Beyond logical computation, equations are **civilizational mirrors**.  
    - Each formula may reveal a **principle of permanence, transformation, or renewal**.
 
-# The universe does not return to zero. Zero represnets a reset state- a point of renewal-rather than a state of emptiness.
+* 宇宙不會回歸零。零代表的是一種重置狀態──一個更新的點──而不是一種空虛的狀態。
 
 ---
 
